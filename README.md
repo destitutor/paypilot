@@ -1,3 +1,8 @@
+<p align="center"><img src="https://i.imgur.com/5UCuWZ3.png" width="300" height="300"></p>
+
+<h1 align="middle">PayPilot</h1>
+<p align="middle">함께 금융을 관리하자! 손쉽게 체크하고, 안전하게 결제하세요.</p>
+
 ## 📝 Description
 
 ## 🚀 Demo
